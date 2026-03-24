@@ -1,2 +1,4 @@
 to check merge conflict
 this is the change in master branch
+this is the change in feature branch
+
