@@ -1,1 +1,2 @@
 to check merge conflict
+this is the change in feature branch
